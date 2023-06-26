@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays9\Arrays9\bin\Debug\Arrays9.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays9\Arrays9\bin\Debug\Arrays9.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays9\Arrays9\bin\Debug\Arrays9.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays9\Arrays9\obj\Debug\Arrays9.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays9\Arrays9\obj\Debug\Arrays9.pdb

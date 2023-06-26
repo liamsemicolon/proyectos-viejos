@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\bin\Debug\sumacifras.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\bin\Debug\sumacifras.exe
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\bin\Debug\sumacifras.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\obj\Debug\sumacifras.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\obj\Debug\sumacifras.exe
+c:\users\usuario\documents\visual studio 2015\Projects\sumacifras\sumacifras\obj\Debug\sumacifras.pdb

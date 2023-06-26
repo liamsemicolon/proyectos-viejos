@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\bin\Debug\MacronBorrador.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\bin\Debug\MacronBorrador.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\bin\Debug\MacronBorrador.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\obj\Debug\MacronBorrador.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\obj\Debug\MacronBorrador.exe
+c:\users\usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\obj\Debug\MacronBorrador.pdb
+C:\Users\Usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Usuario\documents\visual studio 2015\Projects\MacronBorrador\MacronBorrador\bin\Debug\LumenWorks.Framework.IO.xml

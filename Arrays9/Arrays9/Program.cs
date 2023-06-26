@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+/* Crea una variante del ejemplo anterior (Ejemplo5) que borre el dato que se encuentre en la posición que elija el
+   usuario. Debe avisar si la posición escogida no es válida. */
+namespace Arrays8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] datos = { 10, 15, 12, 25, 12, 15, 45, 0, 0 };
+            int capacidad = datos.Length, cantidad = 7, i = new int(), posNumABorrar = new int();
+            bool posValida = new bool();
+            Console.WriteLine("Números:");
+            for (i = 0; i < cantidad; i++)
+            {
+                Console.WriteLine(datos[i]);
+            }
+            do
+            {
+                Console.Write("Ingrese la posición del número a añadir:\n> ");
+                posNumABorrar = Convert.ToInt16(Console.ReadLine());
+                if (posNumABorrar >= cantidad)
+                {
+                    posValida = false;
+                    Console.WriteLine("La posición ingresada no es válida. Intente de nuevo...");
+                }
+                else
+                {
+                    posValida = true;
+                    for(i = posNumABorrar; i < cantidad; i++)
+                    {
+                        datos[i] = datos[i + 1];
+                    }
+                    cantidad--;
+                    datos[cantidad] = 0;
+                    Console.WriteLine("Número borrado de la posición " + posNumABorrar + ".\nNúmeros:");
+                    for (i = 0; i < cantidad; i++)
+                    {
+                        Console.WriteLine(datos[i]);
+                    }
+                }
+            } while (!posValida);
+            Console.Write("Presione cualquier tecla para salir...");
+            Console.ReadKey();
+        }
+    }
+}

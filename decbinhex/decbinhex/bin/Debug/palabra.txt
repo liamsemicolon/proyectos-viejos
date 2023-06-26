@@ -1,0 +1,10 @@
+X: 11
+A: 2
+R: 2
+U: 2
+T: 2
+Q: 1
+I: 1
+E: 1
+C: 1
+Caracter que mas se repite: X

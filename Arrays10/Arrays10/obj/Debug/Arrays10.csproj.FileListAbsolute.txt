@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\bin\Debug\Arrays10.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\bin\Debug\Arrays10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\bin\Debug\Arrays10.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\obj\Debug\Arrays10.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\obj\Debug\Arrays10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays10\Arrays10\obj\Debug\Arrays10.pdb

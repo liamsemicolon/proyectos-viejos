@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\bin\Debug\ProyInfITP12A.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\bin\Debug\ProyInfITP12A.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\bin\Debug\ProyInfITP12A.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\obj\Debug\ProyInfITP12A.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\obj\Debug\ProyInfITP12A.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ProyInfITP12A\ProyInfITP12A\obj\Debug\ProyInfITP12A.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\bin\Debug\ProyInfITP12A.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\obj\Debug\ProyInfITP12A.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\obj\Debug\ProyInfITP12A.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\bin\Debug\ProyInfITP12A.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\bin\Debug\ProyInfITP12A.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP12-A\ProyInfITP12A\obj\Debug\ProyInfITP12A.csprojResolveAssemblyReference.cache

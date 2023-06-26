@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\bin\Debug\Cajero ATM ANUAL.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\bin\Debug\Cajero ATM ANUAL.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\bin\Debug\Cajero ATM ANUAL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\obj\Debug\Cajero ATM ANUAL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\obj\Debug\Cajero ATM ANUAL.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Cajero ATM ANUAL\Cajero ATM ANUAL\obj\Debug\Cajero ATM ANUAL.pdb

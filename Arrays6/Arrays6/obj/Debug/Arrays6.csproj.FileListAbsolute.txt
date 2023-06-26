@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\bin\Debug\Arrays6.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\bin\Debug\Arrays6.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\bin\Debug\Arrays6.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\obj\Debug\Arrays6.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\obj\Debug\Arrays6.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Arrays6\Arrays6\obj\Debug\Arrays6.pdb

@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\bin\Debug\calctiempesp.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\bin\Debug\calctiempesp.exe
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\bin\Debug\calctiempesp.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\obj\Debug\calctiempesp.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\obj\Debug\calctiempesp.exe
+c:\users\usuario\documents\visual studio 2015\Projects\calctiempesp\calctiempesp\obj\Debug\calctiempesp.pdb

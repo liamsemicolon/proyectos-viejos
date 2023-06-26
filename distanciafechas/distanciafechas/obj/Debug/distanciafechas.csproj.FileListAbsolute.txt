@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\distanciafechas\distanciafechas\bin\Debug\distanciafechas.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\distanciafechas\distanciafechas\bin\Debug\distanciafechas.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\distanciafechas\distanciafechas\bin\Debug\distanciafechas.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\distanciafechas\distanciafechas\obj\Debug\distanciafechas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\distanciafechas\distanciafechas\obj\Debug\distanciafechas.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\distanciafechas\distanciafechas\obj\Debug\distanciafechas.pdb
