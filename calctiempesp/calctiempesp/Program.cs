@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/* Aplicacioncita hecha para acelerar el cálculo de tiempo esperado en Proyectos
+   Informáticos */
 namespace calctiempesp
 {
     class Program

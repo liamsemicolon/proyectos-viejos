@@ -4,7 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/* Hecho para ejecutarse desde un .bat para una tarea de Batch
+*/
 namespace sumacifras
 {
     class Program

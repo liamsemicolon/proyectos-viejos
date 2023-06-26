@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/* Gestor simple de refugios de perros, en donde se pueden añadir perros y ver los
+   datos. Evaluación de C#.
+*/
 namespace ConsoleApplication4
 {
     class Refugio

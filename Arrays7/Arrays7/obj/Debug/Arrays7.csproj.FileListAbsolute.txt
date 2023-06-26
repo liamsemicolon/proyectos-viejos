@@ -1,5 +1,0 @@
-c:\users\usuario\documents\visual studio 2015\Projects\Arrays7\Arrays7\bin\Debug\Arrays7.exe.config
-c:\users\usuario\documents\visual studio 2015\Projects\Arrays7\Arrays7\bin\Debug\Arrays7.exe
-c:\users\usuario\documents\visual studio 2015\Projects\Arrays7\Arrays7\bin\Debug\Arrays7.pdb
-c:\users\usuario\documents\visual studio 2015\Projects\Arrays7\Arrays7\obj\Debug\Arrays7.exe
-c:\users\usuario\documents\visual studio 2015\Projects\Arrays7\Arrays7\obj\Debug\Arrays7.pdb

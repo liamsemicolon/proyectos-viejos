@@ -1,6 +1,0 @@
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\bin\Debug\cajeroatm.exe.config
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\bin\Debug\cajeroatm.exe
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\bin\Debug\cajeroatm.pdb
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\obj\Debug\cajeroatm.csprojResolveAssemblyReference.cache
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\obj\Debug\cajeroatm.exe
-c:\users\usuario\documents\visual studio 2015\Projects\cajeroatm\cajeroatm\obj\Debug\cajeroatm.pdb

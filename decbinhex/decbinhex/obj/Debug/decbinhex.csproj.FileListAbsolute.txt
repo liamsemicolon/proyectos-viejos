@@ -1,6 +1,0 @@
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\bin\Debug\decbinhex.exe.config
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\bin\Debug\decbinhex.exe
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\bin\Debug\decbinhex.pdb
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\obj\Debug\decbinhex.csprojResolveAssemblyReference.cache
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\obj\Debug\decbinhex.exe
-c:\users\usuario\documents\visual studio 2015\Projects\decbinhex\decbinhex\obj\Debug\decbinhex.pdb

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace distanciafechas
+namespace distanciaFechas
 {
     class Program
     {
